@@ -5,7 +5,7 @@ Monte Carlo Code (run using MCmatlab v4.4.5):
 - `EscapeFunctions.m` (generates escape function cylindrical distribution in media)
 
 Raw Data and Processing Code:
-- EscapeFunctions.mat (resulting data from `EscapeFunctions.m`)
+- `EscapeFunctions.mat` (resulting data from `EscapeFunctions.m`)
 - `Emissions__.mat` (resulting data from `Emissions.m`)
 -- on Figshare: 10.6084/m9.figshare.26354497
 - `DetectionMatrix.m` (generates Cartesian escape function Cartesian distribution from `EscapeFunctions.mat`)
